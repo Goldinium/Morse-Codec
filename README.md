@@ -1,4 +1,4 @@
-# Pet Clinic
+# Morse-Codec 
 
 
 # 📗 Table of Contents
@@ -21,18 +21,18 @@
 
 # 📖 [Pet Clinic] <a name="about-project"></a>
 
-> A relational (SQL) database based on a real-life example
+>  A ruby program to decode morse into readbale text 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> For this project we used SQL, specifically POstgres.
+> For this project I used Ruby.
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
@@ -40,19 +40,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-> A database storing all information about different things of the pets on the clinic
+> The applet convert standard international morse code to redable text
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Coming soon..
-
-- [Live Demo](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -65,12 +56,16 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need to:
 
 ```sh
- git clone https://github.com/Goldinium/Pet_clinic.git
+ git clone https://github.com/Goldinium/Morse-Codec
 ```
 
 ### Install & Usage
 
-No instalattion for this project, just copy past commands from the SQL files
+No instalattion for this project, just run
+
+```sh
+ ruby morse_decoder.rb
+```
 
 <!-- AUTHORS -->
 
@@ -80,17 +75,13 @@ No instalattion for this project, just copy past commands from the SQL files
 
 - GitHub: [@Goldinium](https://github.com/Goldinium)
 
-👤 **James**
-
-- GitHub: [@chiedozie013](https://github.com/chiedozie013)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Full pet clinic database!
+> Sound feature, decod sound beeps!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
