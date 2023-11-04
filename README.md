@@ -29,7 +29,7 @@
 > For this project I used Ruby.
 
 <details>
-<summary>Database</summary>
+<summary>CLI</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
   </ul>
