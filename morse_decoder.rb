@@ -12,12 +12,12 @@ class MorseCodeDecoder
     MORSE[crypt] || ''
   end
 
-  def letter_decoder(letter)
+  def word_decoder(letter)
     letter.split.map { |char| char_decoder(char) }.join
   end
 
   def decode(message)
-    message.split('   ').map { |letter| letter_decoder(letter) }.join(' ')
+    message.split('   ').map { |letter| word_decoder(letter) }.join(' ')
   end
 end
 
