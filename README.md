@@ -80,7 +80,7 @@ No instalattion for this project, just run
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Sound feature, decod sound beeps!
+> Sound feature, decode sound beeps!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
